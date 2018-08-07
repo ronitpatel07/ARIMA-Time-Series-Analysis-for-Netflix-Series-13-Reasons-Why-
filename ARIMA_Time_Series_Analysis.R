@@ -79,7 +79,6 @@ avg_diff
 #Checking average difference on April 18th 
 Apr_18<-((test_ts[19]-pred[19])/mean_pred)*100
 Apr_18
-auto.arima(train_ts, trace = T)
 
 #Checking error
 error <- sqrt((test_ts-pred)^2)
