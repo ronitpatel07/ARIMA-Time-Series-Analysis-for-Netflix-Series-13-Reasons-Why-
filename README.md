@@ -1,6 +1,6 @@
 # ARIMA-Time-Series-Analysis-for-Netflix-Series-13-Reasons-Why-
 
-# Problem Statement
+# Task
 For this task you will use Google trends data to try to reproduce the results presented by the authors of the Netflix study we are discussing this week: https://gizmodo.com/research-finds-disturbing-suicide-search-trends-followi-1797398484
 
 To successfully carry out this task, you’ll need to explore various combinations of Google trends search terms to arrive at a clean time series with the appropriate detail level. You can use inclusion or exclusion of certain terms, see https://support.google.com/trends/answer/4359582?hl=en
